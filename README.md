@@ -21,6 +21,10 @@ Kaggle Competitions Master (peak **#157** globally). Into AI Security & Red Team
   </tr>
 </table>
 
+### 📄 Publication
+
+- **Non-Monotonicity and Catastrophic Risk of Prompt Interventions in Adversarial LLM Control** — ICLR 2026 Workshop ICBINB — [Google Scholar](https://scholar.google.com/citations?user=TEKFLnsAAAAJ)
+
 ### 🔧 OSS Contributions
 
 - **[NVIDIA/garak](https://github.com/NVIDIA/garak)** (7.5k+ ⭐) — LLM vulnerability scanner. Contributed bug fixes ([#1671](https://github.com/NVIDIA/garak/pull/1671), [#1672](https://github.com/NVIDIA/garak/pull/1672))
