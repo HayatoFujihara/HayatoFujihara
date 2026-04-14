@@ -2,7 +2,7 @@
 
 ML Engineer / Engineering Manager at [Elith Inc.](https://elith.co.jp/)
 
-Kaggle Competitions Master (peak **#157** globally). Into AI Security, Red Teaming & GPU optimization.
+Kaggle Competitions Master (peak **#157** globally). Into AI Security & Red Teaming.
 
 ---
 
@@ -43,13 +43,6 @@ Kaggle Competitions Master (peak **#157** globally). Into AI Security, Red Teami
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HayatoFujihara&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayatoFujihara&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
