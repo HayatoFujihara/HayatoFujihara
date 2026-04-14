@@ -27,7 +27,7 @@ Kaggle Competitions Master (peak **#157** globally). Into AI Security & Red Team
 
 ### 🔧 OSS Contributions
 
-- **[NVIDIA/garak](https://github.com/NVIDIA/garak)** (7.5k+ ⭐) — LLM vulnerability scanner. Contributed bug fixes ([#1671](https://github.com/NVIDIA/garak/pull/1671), [#1672](https://github.com/NVIDIA/garak/pull/1672))
+- **[NVIDIA/garak](https://github.com/NVIDIA/garak)** (7.5k+ ⭐) — LLM vulnerability scanner. Contributed compatibility fixes and feature improvements ([#1671](https://github.com/NVIDIA/garak/pull/1671), [#1672](https://github.com/NVIDIA/garak/pull/1672))
 - **[awesome-ai-red-teaming-jp](https://github.com/HayatoFujihara/awesome-ai-red-teaming-jp)** — AI Red Teaming resources in Japanese
 
 ---
