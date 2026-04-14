@@ -1,12 +1,25 @@
 # Hi, I'm Hayato Fujihara 👋
 
-ML Engineer / Engineering Manager at [Elith Inc.](https://elith.co.jp/)
+**ML Engineer / Engineering Manager** at [Elith Inc.](https://elith.co.jp/) — Based in Saitama, Japan
 
-## About
+Promoted to Engineering Manager within 3 months of joining. I lead cross-functional projects spanning LLMs, Computer Vision, Speech AI, and 3D/CAD, while staying hands-on with architecture decisions, development, and code reviews.
 
-- Kaggle Master ([profile](https://kaggle.com/hayatofujihara))
-- Interested in AI Security & Red Teaming
-- Based in Saitama, Japan
+Self-taught in machine learning. Achieved **Kaggle Competitions Master** after 2 months of intensive competition — reached a peak global ranking of **#157**. Grateful to the Kaggle community whose shared knowledge made this possible.
+
+## Kaggle Achievements (1 Gold / 6 Silver / 3 Bronze)
+
+| Competition | Rank |
+|---|---|
+| Automated Essay Scoring 2.0 | 🥇 **7th** / 2,706 teams |
+| Image Matching Challenge 2025 | 🥈 **15th** / 943 teams |
+| AI Mathematical Olympiad - Progress Prize 1 | 🥈 **41st** / 1,161 teams |
+
+[Full profile →](https://kaggle.com/hayatofujihara)
+
+## Competitive Programming & GPU Optimization
+
+- **GPU Mode Sprint Competition** — Provisional 1st place (A100 & B200 divisions) — [Leaderboard](https://www.gpumode.com/leaderboard/538?tab=rankings)
+- **AtCoder AHC** — Peak rating: 1784 — [Profile](https://atcoder.jp/users/HayatoFujihara?contestType=heuristic)
 
 ## OSS Contributions
 
@@ -17,15 +30,19 @@ Contributor to NVIDIA's open-source LLM vulnerability scanning tool.
 - [PR #1671](https://github.com/NVIDIA/garak/pull/1671): Fix libmagic 5.47 compatibility issue
 - [PR #1672](https://github.com/NVIDIA/garak/pull/1672): Fix report_digest taxonomy option handling
 
-### [awesome-ai-red-teaming-jp](https://github.com/HayatoFujihara/awesome-ai-red-teaming-jp) — AI Red Teaming 日本語リソース集
+### [awesome-ai-red-teaming-jp](https://github.com/HayatoFujihara/awesome-ai-red-teaming-jp)
 
-AI Red Teaming に関する日本語情報をまとめたキュレーションリポジトリ。
+Curated collection of AI Red Teaming resources in Japanese.
 
 ## Tech Stack
 
-`Python` `Machine Learning` `LLM` `AI Security` `Kaggle`
+**ML/DL:** PyTorch, BERT, LoRA Fine-tuning, OCR, AI Safety, AI Red Teaming, Prompt Engineering
+**Web:** FastAPI, Next.js, React
+**Languages:** Python, C++, TypeScript, JavaScript, Dart (Flutter)
+**Infra:** GCP, Docker, Firebase, Elastic Cloud
 
 ## Links
 
-- [Kaggle](https://kaggle.com/hayatofujihara)
-- [X (Twitter)](https://twitter.com/readproject_)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Master-gold?logo=kaggle)](https://kaggle.com/hayatofujihara)
+[![AtCoder](https://img.shields.io/badge/AtCoder-AHC%201784-blue?logo=atcoder)](https://atcoder.jp/users/HayatoFujihara?contestType=heuristic)
+[![X](https://img.shields.io/badge/X-@readproject__-black?logo=x)](https://twitter.com/readproject_)
