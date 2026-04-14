@@ -1,52 +1,58 @@
-# Hi, I'm Hayato Fujihara 👋
+## Hey there 👋 I'm Hayato
 
-**ML Engineer / Engineering Manager** at [Elith Inc.](https://elith.co.jp/) — Based in Saitama, Japan
+ML Engineer / Engineering Manager at [Elith Inc.](https://elith.co.jp/)
 
-Promoted to Engineering Manager within 3 months of joining. I lead cross-functional projects spanning LLMs, Computer Vision, Speech AI, and 3D/CAD, while staying hands-on with architecture decisions, development, and code reviews.
+Kaggle Competitions Master (peak **#157** globally). Into AI Security, Red Teaming & GPU optimization.
 
-Self-taught in machine learning. Achieved **Kaggle Competitions Master** after 2 months of intensive competition — reached a peak global ranking of **#157**. Grateful to the Kaggle community whose shared knowledge made this possible.
+---
 
-## Kaggle Achievements (1 Gold / 6 Silver / 3 Bronze)
+### 🏆 Competitive Achievements
 
-| Competition | Rank |
-|---|---|
-| Automated Essay Scoring 2.0 | 🥇 **7th** / 2,706 teams |
-| Image Matching Challenge 2025 | 🥈 **15th** / 943 teams |
-| AI Mathematical Olympiad - Progress Prize 1 | 🥈 **41st** / 1,161 teams |
+<table>
+  <tr>
+    <td><b>Kaggle</b></td>
+    <td>Competitions Master — 1🥇 6🥈 3🥉</td>
+    <td><a href="https://kaggle.com/hayatofujihara">Profile</a></td>
+  </tr>
+  <tr>
+    <td><b>GPU Mode</b></td>
+    <td>Sprint Competition — Provisional 1st (A100 & B200)</td>
+    <td><a href="https://www.gpumode.com/leaderboard/538?tab=rankings">Leaderboard</a></td>
+  </tr>
+  <tr>
+    <td><b>AtCoder</b></td>
+    <td>AHC Peak Rating 1784</td>
+    <td><a href="https://atcoder.jp/users/HayatoFujihara?contestType=heuristic">Profile</a></td>
+  </tr>
+</table>
 
-[Full profile →](https://kaggle.com/hayatofujihara)
+### 🔧 OSS Contributions
 
-## GPU Optimization & Competitive Programming
+- **[NVIDIA/garak](https://github.com/NVIDIA/garak)** (7.5k+ ⭐) — LLM vulnerability scanner. Contributed bug fixes ([#1671](https://github.com/NVIDIA/garak/pull/1671), [#1672](https://github.com/NVIDIA/garak/pull/1672))
+- **[awesome-ai-red-teaming-jp](https://github.com/HayatoFujihara/awesome-ai-red-teaming-jp)** — AI Red Teaming resources in Japanese
 
-- **GPU Mode Sprint Competition** — Provisional 1st place (A100 & B200 divisions) — [Leaderboard](https://www.gpumode.com/leaderboard/538?tab=rankings)
-- **AtCoder AHC** — Peak rating: 1784 — [Profile](https://atcoder.jp/users/HayatoFujihara?contestType=heuristic)
+### 🛠️ Tech Stack
 
-## OSS Contributions
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
-### [NVIDIA/garak](https://github.com/NVIDIA/garak) — LLM Vulnerability Scanner (7.5k+ ⭐)
+### 📊 GitHub Stats
 
-Contributor to NVIDIA's open-source LLM vulnerability scanning tool.
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HayatoFujihara&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayatoFujihara&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- [PR #1671](https://github.com/NVIDIA/garak/pull/1671): Fix libmagic 5.47 compatibility issue
-- [PR #1672](https://github.com/NVIDIA/garak/pull/1672): Fix report_digest taxonomy option handling
-
-### [awesome-ai-red-teaming-jp](https://github.com/HayatoFujihara/awesome-ai-red-teaming-jp)
-
-Curated collection of AI Red Teaming resources in Japanese.
-
-## Tech Stack
-
-**ML/DL:** PyTorch, BERT, LoRA Fine-tuning, OCR, AI Safety, AI Red Teaming, Prompt Engineering
-
-**Web:** FastAPI, Next.js, React
-
-**Languages:** Python, C++, TypeScript, JavaScript, Dart (Flutter)
-
-**Infra:** GCP, Docker, Firebase, Elastic Cloud
-
-## Links
+---
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Master-gold?logo=kaggle)](https://kaggle.com/hayatofujihara)
-[![AtCoder](https://img.shields.io/badge/AtCoder-AHC%201784-blue?logo=atcoder)](https://atcoder.jp/users/HayatoFujihara?contestType=heuristic)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HayatoFujihara-blue?logo=linkedin)](https://www.linkedin.com/in/hayato-fujihara-55248a376/)
 [![X](https://img.shields.io/badge/X-@readproject__-black?logo=x)](https://twitter.com/readproject_)
