@@ -16,7 +16,7 @@ Self-taught in machine learning. Achieved **Kaggle Competitions Master** after 2
 
 [Full profile →](https://kaggle.com/hayatofujihara)
 
-## Competitive Programming & GPU Optimization
+## GPU Optimization & Competitive Programming
 
 - **GPU Mode Sprint Competition** — Provisional 1st place (A100 & B200 divisions) — [Leaderboard](https://www.gpumode.com/leaderboard/538?tab=rankings)
 - **AtCoder AHC** — Peak rating: 1784 — [Profile](https://atcoder.jp/users/HayatoFujihara?contestType=heuristic)
