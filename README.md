@@ -48,5 +48,5 @@ Curated collection of AI Red Teaming resources in Japanese.
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Master-gold?logo=kaggle)](https://kaggle.com/hayatofujihara)
 [![AtCoder](https://img.shields.io/badge/AtCoder-AHC%201784-blue?logo=atcoder)](https://atcoder.jp/users/HayatoFujihara?contestType=heuristic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HayatoFujihara-blue?logo=linkedin)](https://www.linkedin.com/in/hayato-fujihara-and-and/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HayatoFujihara-blue?logo=linkedin)](https://www.linkedin.com/in/hayato-fujihara-55248a376/)
 [![X](https://img.shields.io/badge/X-@readproject__-black?logo=x)](https://twitter.com/readproject_)
